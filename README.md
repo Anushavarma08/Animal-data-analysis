@@ -1,6 +1,6 @@
 # Animal Care and Control Adoption Analysis
 
-This project, developed by Team 'TailBlazers'(Anusha Mudundi & Charu Gupta) during the January Code Pudding event hosted by #[TripleTen](https://www.tripleten.com/), focuses on analyzing animal care and control adoption data. Our objective is to uncover insights into animal intake patterns, adoption rates, and factors influencing successful adoptions. We have used Animal care and Control- Adopted Animals data from Kaggle and Tableau for visualization.
+This project, developed by Team 'TailBlazers'(Anusha Mudundi & Charu Gupta) during the January Code Pudding event hosted by #[TripleTen](https://www.tripleten.com/), focuses on analyzing animal care and control adoption data. Our objective is to uncover insights into animal intake patterns, adoption rates, and factors influencing successful adoptions.
 
 🏆 Achievement
 
@@ -50,6 +50,7 @@ Tableau public link: https://public.tableau.com/app/profile/anusha.rani.mudundi3
 
 ## Contact 
 
-For any questions or further information, please contct Anusha at anusha1.rani.m@gmail.com
+For any questions or further information, please contct Anusha at anusha1.rani.m@gmail.com /
+https://www.linkedin.com/in/anusharanim/
 
 
